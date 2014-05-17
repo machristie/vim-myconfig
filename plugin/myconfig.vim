@@ -12,4 +12,7 @@ if has("gui_running")
     set go-=rL
 endif
 
+" Depends on fugitive, displays current branch
+set statusline=%<%f\ %h%m%r%{fugitive#statusline()}%=%-14.(%l,%c%V%)\ %P
+
 " vim:set ft=vim et sw=2:
