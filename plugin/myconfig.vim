@@ -1,4 +1,4 @@
-let g:netrw_list_hide='\<.swp\>,\<.DS_Store\>'
+let g:netrw_list_hide='.*\.swp$,\<.DS_Store\>'
 
 " This is more useful with vim-sensible
 set list
