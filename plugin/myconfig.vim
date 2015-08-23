@@ -12,8 +12,6 @@ if has("gui_running")
     set guioptions-=rL
     set guioptions-=T  "remove toolbar
     set guioptions-=m  "remove menubar
-    " maximize on start up
-    au GUIEnter * simalt ~x
 endif
 
 " yanks go directly to clipboard
