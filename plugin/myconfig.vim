@@ -22,4 +22,6 @@ set statusline=%<%f\ %h%m%r%{fugitive#statusline()}%=%-14.(%l,%c%V%)\ %P
 
 set noswf
 
+set sessionoptions+=resize,winpos
+
 " vim:set ft=vim et sw=2:
