@@ -20,5 +20,4 @@ Pathogen needs to be installed. The following at least needs to be in vimrc:
 2. [vim-scala](https://github.com/derekwyatt/vim-scala)
 3. [vim-markdown](https://github.com/tpope/vim-markdown)
 4. [vim-fugitive](https://github.com/tpope/vim-fugitive)
-5. [NERDtree](https://github.com/scrooloose/nerdtree)
 

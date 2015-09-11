@@ -24,8 +24,4 @@ set noswf
 
 set sessionoptions+=resize,winpos
 
-" NERDtree
-map <Leader>n :NERDTreeToggle<CR>
-map <Leader>N :NERDTreeFocus<CR>
-
 " vim:set ft=vim et sw=2:
